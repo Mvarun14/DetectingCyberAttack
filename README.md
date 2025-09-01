@@ -1,4 +1,4 @@
-Detecting Cyber Attacks through Measurements: Learnings from a Cyber Range
+SOC Monitoring with ELK Stack
 
 Project Overview
 This project focuses on detecting cyber attacks using network and host-based monitoring techniques within a Security Operations Center (SOC) environment. It leverages the ELK Stack (Elasticsearch, Logstash, Kibana) for log aggregation, analysis, and visualization to identify malicious activities like brute-force attacks, unauthorized access, and lateral movement.
